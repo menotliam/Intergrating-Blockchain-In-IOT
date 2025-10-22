@@ -1,6 +1,6 @@
-# Integrating Blockchain In IOT
+# IoT Security Platform with Blockchain
 
-Project is about applying Security Technique in Blockchain into IOT devices. Providing the Transparency, Privacy, and Confidentiality concepts in IOT - where they have never existed before.
+A secure IoT platform using blockchain technology to ensure data integrity and prevent device forgery.
 
 ## Features
 

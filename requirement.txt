@@ -1,0 +1,63 @@
+# Web Framework
+fastapi==0.103.2
+uvicorn==0.23.2
+starlette==0.27.0
+
+# API Requests
+httpx==0.25.0
+
+
+
+# Database (MongoDB)
+motor==3.3.1
+pymongo==4.5.0
+
+# Environment Variables
+python-dotenv==1.0.0
+pydantic-settings==2.0.3
+
+# Logging
+loguru==0.7.2
+
+
+
+# Testing
+pytest==7.4.2
+pytest-asyncio==0.21.1
+
+# AWS SDK (for API Gateway deployment)
+boto3==1.28.62
+
+# YAML parsing (for OpenAPI schema)
+pyyaml==6.0.1
+
+# JSON processing
+ujson==5.8.0
+
+# Performance monitoring
+prometheus-client==0.17.1
+
+# Data validation
+pydantic==2.4.2
+
+# Blockchain and Smart Contracts
+web3==6.11.1
+py-solc-x==2.0.4
+
+# IPFS Integration
+ipfshttpclient == 0.8.0a2
+
+# MQTT for IoT communication
+paho-mqtt==1.6.1
+
+# Cryptography
+cryptography==41.0.7
+ecdsa==0.18.0
+
+# Additional utilities for IoT
+pyserial==3.5
+
+# (Optional) Flask, if used elsewhere
+# flask==2.3.3
+
+# (Optional) Frontend dependencies are managed separately (HTML/JS/CSS)
